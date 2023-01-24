@@ -89,8 +89,6 @@ int main() {
 5. It meets specification 4 because when a negetive number is included in the string, it rejects and prints the list of negetive numbers with 0 as the sum
 6. It also meets specification 5 because when a number is bigger than 1000, it rejects the number and sums only smaller numbers.
 7. it meets specification 6. Delimiters of any length.
-8. It meets specification 7 and 8. Multiple Delimiters and multiple delimeters of any length are supported but this works only when a specific delimiter is not selected by user. Please ensure that any delimiter inputed in the second line uses only delimiters specified in the delim[] array. Automating the process to support input from the user is very possible but would require more time. 
-
-This is the best i could come up with in the timeframe. I would love to do more but more time would be required for the code to be bettter, faster and more efficient
+8. It meets specification 7 and 8. Multiple Delimiters and multiple delimeters of any length are supported but this works only when a specific delimiter is not selected by user. 
 
 */
